@@ -1,0 +1,13 @@
+C:\Users\nw0115424\project\consoleapp1\imc\imc\bin\Debug\netcoreapp3.1\imc.exe
+C:\Users\nw0115424\project\consoleapp1\imc\imc\bin\Debug\netcoreapp3.1\imc.deps.json
+C:\Users\nw0115424\project\consoleapp1\imc\imc\bin\Debug\netcoreapp3.1\imc.runtimeconfig.json
+C:\Users\nw0115424\project\consoleapp1\imc\imc\bin\Debug\netcoreapp3.1\imc.runtimeconfig.dev.json
+C:\Users\nw0115424\project\consoleapp1\imc\imc\bin\Debug\netcoreapp3.1\imc.dll
+C:\Users\nw0115424\project\consoleapp1\imc\imc\bin\Debug\netcoreapp3.1\imc.pdb
+C:\Users\nw0115424\project\consoleapp1\imc\imc\obj\Debug\netcoreapp3.1\imc.csprojAssemblyReference.cache
+C:\Users\nw0115424\project\consoleapp1\imc\imc\obj\Debug\netcoreapp3.1\imc.AssemblyInfoInputs.cache
+C:\Users\nw0115424\project\consoleapp1\imc\imc\obj\Debug\netcoreapp3.1\imc.AssemblyInfo.cs
+C:\Users\nw0115424\project\consoleapp1\imc\imc\obj\Debug\netcoreapp3.1\imc.csproj.CoreCompileInputs.cache
+C:\Users\nw0115424\project\consoleapp1\imc\imc\obj\Debug\netcoreapp3.1\imc.dll
+C:\Users\nw0115424\project\consoleapp1\imc\imc\obj\Debug\netcoreapp3.1\imc.pdb
+C:\Users\nw0115424\project\consoleapp1\imc\imc\obj\Debug\netcoreapp3.1\imc.genruntimeconfig.cache
